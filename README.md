@@ -5,8 +5,7 @@ https://testpatterns.github.io/index.html
 
 https://testpatterns.github.io/testpatterns
 
-### Github Flavoured Markdown
+#### References
 
-[GitHub](http://github.com)
-
-https://guides.github.com/features/mastering-markdown/
+[Github Flavoured Markdown](https://guides.github.com/features/mastering-markdown/)
+[Semantic Versioning 2.0.0](https://semver.org/)
