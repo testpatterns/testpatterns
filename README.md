@@ -1,9 +1,6 @@
 # testpatterns
-testpatterns
 
-https://testpatterns.github.io/index.html
-
-https://testpatterns.github.io/testpatterns
+[testpatterns](https://testpatterns.github.io/testpatterns/index.html)
 
 #### References
 
