@@ -1,7 +1,7 @@
 ## Testpatterns
 
-[Homepage](//testpatterns.github.io/testpatterns/index.html)
-[Github Repository](//github.com/testpatterns/testpatterns)
+- [Homepage](//testpatterns.github.io/testpatterns/index.html)
+- [Github Repository](//github.com/testpatterns/testpatterns)
 
 #### Dependencies
 
