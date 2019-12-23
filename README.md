@@ -10,7 +10,7 @@ Test Pattern|Description
 
 #### Dependencies
 
-- [FFmpeg](//ffmpeg.org), tested using the [alternative FFmpeg tap](//github.com/homebrew-ffmpeg/homebrew-ffmpeg) build.
+- [FFmpeg](//ffmpeg.org), built for MacOS using the [alternative FFmpeg tap](//github.com/homebrew-ffmpeg/homebrew-ffmpeg) build.
 - [Imagemagick](//imagemagick.org), for creating favicons for the repository.
 
 #### Tools
@@ -18,6 +18,7 @@ Test Pattern|Description
 - [ltc-tools](https://github.com/x42/ltc-tools), for creation of linear-timecodes (LTC).
 - [QCTools](https://github.com/bavc/qctools), Quality Control Tools for Video Preservation.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo), Convenient unified display of the most relevant technical and tag data for video and audio files.
+- [DGPulldown](https://github.com/jaystevens/dgpulldown), originally created by [Donald A. Graft](http://rationalqm.us/dgpulldown/dgpulldown.html).
 
 #### References
 
