@@ -1,0 +1,199 @@
+{
+    "program_version": {
+        "version": "4.2.1",
+        "copyright": "Copyright (c) 2007-2019 the FFmpeg developers",
+        "compiler_ident": "Apple LLVM version 10.0.1 (clang-1001.0.46.4)",
+        "configuration": "--prefix=/usr/local/Cellar/ffmpeg/4.2.1-with-options_2 --enable-shared --cc=clang --host-cflags='-I/Library/Java/JavaVirtualMachines/openjdk-13.jdk/Contents/Home/include -I/Library/Java/JavaVirtualMachines/openjdk-13.jdk/Contents/Home/include/darwin' --host-ldflags= --enable-gpl --enable-libaom --enable-libmp3lame --enable-libopus --enable-libsnappy --enable-libtheora --enable-libvorbis --enable-libvpx --enable-libx264 --enable-libx265 --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --disable-libjack --disable-indev=jack --enable-opencl --enable-videotoolbox --disable-htmlpages --enable-libbluray --enable-libfdk-aac --enable-libopenh264 --enable-librsvg --enable-librtmp --enable-librubberband --enable-libsoxr --enable-libspeex --enable-libsrt --enable-libssh --enable-libtesseract --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libwavpack --enable-libwebp --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-openssl --enable-nonfree --enable-version3 --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --disable-decoder=jpeg2000 --extra-cflags=-I/usr/local/Cellar/openjpeg/2.3.1/include/openjpeg-2.3"
+    },
+    "library_versions": [
+        {
+            "name": "libavutil",
+            "major": 56,
+            "minor": 31,
+            "micro": 100,
+            "version": 3678052,
+            "ident": "Lavu56.31.100"
+        },
+        {
+            "name": "libavcodec",
+            "major": 58,
+            "minor": 54,
+            "micro": 100,
+            "version": 3815012,
+            "ident": "Lavc58.54.100"
+        },
+        {
+            "name": "libavformat",
+            "major": 58,
+            "minor": 29,
+            "micro": 100,
+            "version": 3808612,
+            "ident": "Lavf58.29.100"
+        },
+        {
+            "name": "libavdevice",
+            "major": 58,
+            "minor": 8,
+            "micro": 100,
+            "version": 3803236,
+            "ident": "Lavd58.8.100"
+        },
+        {
+            "name": "libavfilter",
+            "major": 7,
+            "minor": 57,
+            "micro": 100,
+            "version": 473444,
+            "ident": "Lavfi7.57.100"
+        },
+        {
+            "name": "libswscale",
+            "major": 5,
+            "minor": 5,
+            "micro": 100,
+            "version": 329060,
+            "ident": "SwS5.5.100"
+        },
+        {
+            "name": "libswresample",
+            "major": 3,
+            "minor": 5,
+            "micro": 100,
+            "version": 197988,
+            "ident": "SwR3.5.100"
+        },
+        {
+            "name": "libpostproc",
+            "major": 55,
+            "minor": 5,
+            "micro": 100,
+            "version": 3605860,
+            "ident": "postproc55.5.100"
+        }
+    ],
+    "programs": [
+
+    ],
+    "streams": [
+        {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_time_base": "1001/60000",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "width": 704,
+            "height": 480,
+            "coded_width": 704,
+            "coded_height": 480,
+            "has_b_frames": 2,
+            "sample_aspect_ratio": "10:11",
+            "display_aspect_ratio": "4:3",
+            "pix_fmt": "yuv420p",
+            "level": 30,
+            "color_range": "tv",
+            "color_space": "bt709",
+            "color_transfer": "bt709",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "field_order": "tt",
+            "refs": 1,
+            "is_avc": "false",
+            "nal_length_size": "0",
+            "r_frame_rate": "30000/1001",
+            "avg_frame_rate": "30000/1001",
+            "time_base": "1001/30000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 300,
+            "duration": "10.010000",
+            "bits_per_raw_sample": "8",
+            "disposition": {
+                "default": 0,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+            },
+            "tags": {
+                "file_package_umid": "0x060A2B340101010501010D0013939BA65294713452939BA60052947134529301",
+                "reel_umid": "0x060A2B340101010501010D0013939BA65294713452939BA60052947134529302",
+                "reel_name": "My Reel Name",
+                "timecode": "01:00:00;00"
+            }
+        },
+        {
+            "index": 1,
+            "codec_name": "pcm_s16le",
+            "codec_long_name": "PCM signed 16-bit little-endian",
+            "codec_type": "audio",
+            "codec_time_base": "1/48000",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "sample_fmt": "s16",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bits_per_sample": 16,
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 480480,
+            "duration": "10.010000",
+            "bit_rate": "1536000",
+            "disposition": {
+                "default": 0,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0
+            },
+            "tags": {
+                "file_package_umid": "0x060A2B340101010501010D0013939BA65294713452939BA60052947134529301",
+                "reel_umid": "0x060A2B340101010501010D0013939BA65294713452939BA60052947134529302",
+                "reel_name": "My Reel Name",
+                "timecode": "01:00:00;00"
+            }
+        }
+    ],
+    "format": {
+        "filename": "output/SMPTE_480i_nonsquare_133_bt601_yuv422p_mandelbrot.mxf",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "format_name": "mxf",
+        "format_long_name": "MXF (Material eXchange Format)",
+        "start_time": "0.000000",
+        "duration": "10.010000",
+        "size": "4899385",
+        "bit_rate": "3915592",
+        "probe_score": 100,
+        "tags": {
+            "operational_pattern_ul": "060e2b34.04010101.0d010201.01010900",
+            "uid": "adab4424-2f25-4dc7-92ff-29bd000c0000",
+            "generation_uid": "adab4424-2f25-4dc7-92ff-29bd000c0001",
+            "company_name": "FFmpeg",
+            "product_name": "OP1a Muxer",
+            "product_version": "58.29.100",
+            "product_uid": "adab4424-2f25-4dc7-92ff-29bd000c0002",
+            "material_package_umid": "0x060A2B340101010501010D0013939BA65294713452939BA60052947134529300",
+            "timecode": "01:00:00;00"
+        }
+    }
+}
