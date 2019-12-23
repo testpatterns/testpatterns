@@ -79,7 +79,7 @@
             "index": 0,
             "codec_name": "h264",
             "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
-            "profile": "High",
+            "profile": "High 4:2:2",
             "codec_type": "video",
             "codec_time_base": "1001/60000",
             "codec_tag_string": "[0][0][0][0]",
@@ -91,7 +91,7 @@
             "has_b_frames": 2,
             "sample_aspect_ratio": "10:11",
             "display_aspect_ratio": "4:3",
-            "pix_fmt": "yuv420p",
+            "pix_fmt": "yuv422p",
             "level": 30,
             "color_range": "tv",
             "color_space": "bt709",
@@ -125,8 +125,8 @@
                 "timed_thumbnails": 0
             },
             "tags": {
-                "file_package_umid": "0x060A2B340101010501010D0013939BA65294713452939BA60052947134529301",
-                "reel_umid": "0x060A2B340101010501010D0013939BA65294713452939BA60052947134529302",
+                "file_package_umid": "0x060A2B340101010501010D00139A1DC852947134A49A1DC80052947134A49A01",
+                "reel_umid": "0x060A2B340101010501010D00139A1DC852947134A49A1DC80052947134A49A02",
                 "reel_name": "My Reel Name",
                 "timecode": "01:00:00;00"
             }
@@ -166,8 +166,8 @@
                 "timed_thumbnails": 0
             },
             "tags": {
-                "file_package_umid": "0x060A2B340101010501010D0013939BA65294713452939BA60052947134529301",
-                "reel_umid": "0x060A2B340101010501010D0013939BA65294713452939BA60052947134529302",
+                "file_package_umid": "0x060A2B340101010501010D00139A1DC852947134A49A1DC80052947134A49A01",
+                "reel_umid": "0x060A2B340101010501010D00139A1DC852947134A49A1DC80052947134A49A02",
                 "reel_name": "My Reel Name",
                 "timecode": "01:00:00;00"
             }
@@ -181,8 +181,8 @@
         "format_long_name": "MXF (Material eXchange Format)",
         "start_time": "0.000000",
         "duration": "10.010000",
-        "size": "4899385",
-        "bit_rate": "3915592",
+        "size": "6095929",
+        "bit_rate": "4871871",
         "probe_score": 100,
         "tags": {
             "operational_pattern_ul": "060e2b34.04010101.0d010201.01010900",
@@ -192,7 +192,7 @@
             "product_name": "OP1a Muxer",
             "product_version": "58.29.100",
             "product_uid": "adab4424-2f25-4dc7-92ff-29bd000c0002",
-            "material_package_umid": "0x060A2B340101010501010D0013939BA65294713452939BA60052947134529300",
+            "material_package_umid": "0x060A2B340101010501010D00139A1DC852947134A49A1DC80052947134A49A00",
             "timecode": "01:00:00;00"
         }
     }

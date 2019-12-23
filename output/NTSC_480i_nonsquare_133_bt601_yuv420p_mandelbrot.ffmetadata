@@ -4,14 +4,14 @@ service_name=My Service Name
 network=My TV Network Name
 show=My Test Patterns
 episode_id=Episode Number 01
-guid=14C4E8EE-FEF4-42BC-8CFE-D9F912855BD3
+guid=23139E72-5617-45B9-A24F-DD93CEAC4B73
 title=480i 29.97 10:11 BT.601 mandelbrot
 description=Standard Definition. Non-square pixels. BT.601 color space. yuv420p pixel format. 60*1000/1001 fields per second, interlaced within 30*1000/1001 frames per seconds.  Requires deinterlacing by the device during playback.
 comment=My Comment.
 reel_name=My Reel Name
 author=https://github.com/testpatterns/testpatterns
 year=2019
-date=20191222-164215
+date=20191222-180928
 timecode=01:00:00\;00
 encoder=Lavf58.29.100
 [STREAM]
