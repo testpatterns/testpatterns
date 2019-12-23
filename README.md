@@ -11,9 +11,13 @@ Test Pattern|Description
 #### Dependencies
 
 - [FFmpeg](//ffmpeg.org), tested using the [alternative FFmpeg tap](//github.com/homebrew-ffmpeg/homebrew-ffmpeg) build.
-- [GNU Bash](//www.gnu.org/software/bash/).
 - [Imagemagick](//imagemagick.org), for creating favicons for the repository.
+
+#### Tools
+
 - [ltc-tools](https://github.com/x42/ltc-tools), for creation of linear-timecodes (LTC).
+- [QCTools](https://github.com/bavc/qctools), Quality Control Tools for Video Preservation.
+- [MediaInfo](https://mediaarea.net/en/MediaInfo), Convenient unified display of the most relevant technical and tag data for video and audio files.
 
 #### References
 
