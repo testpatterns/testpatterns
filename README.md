@@ -5,8 +5,8 @@
 
 Test Pattern|Description
 --|--
-![output/NTSC_480i_2997_133_mandelbrot.ts](output/NTSC_480i_nonsquare_133_bt601_yuv420p_mandelbrot_192x144.png)|[NTSC_480i_2997_133_mandelbrot.ts](output/NTSC_480i_2997_133_mandelbrot.ts)<br>NTSC 480i<br> 29.970fps interlaced<br>H.262 MPEG2 video<br>YUV420 <br>AC3 audio
-[SMPTE_480i_2997_133_mandelbrot.mxf](output/SMPTE_480i_2997_133_mandelbrot.mxf)|SMPTE BT.601 480i <br> 29.970fps interlaced <br> H.264 AVC video <br> YUV422 <br> BT.601 <br> 16-bit PCM audio
+![Thumbnail](output/NTSC_480i_nonsquare_133_bt601_yuv420p_mandelbrot_192x144.png)|[NTSC_480i_2997_133_mandelbrot.ts](output/NTSC_480i_2997_133_mandelbrot.ts)<br>NTSC 480i<br> 29.970fps interlaced<br>H.262 MPEG2 video<br>YUV420 <br>AC3 audio
+![Thumbnail](output/SMPTE_480i_nonsquare_133_bt601_yuv422p_mandelbrot_192x144.png)|[SMPTE_480i_2997_133_mandelbrot.mxf](output/SMPTE_480i_2997_133_mandelbrot.mxf)<br>SMPTE BT.601 480i<br>29.970fps interlaced <br>H.264 AVC video<br>YUV422<br>BT.601<br>16-bit PCM audio
 
 #### Dependencies
 
