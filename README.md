@@ -1,21 +1,18 @@
-## Testpatterns
-
 - [Homepage](//testpatterns.github.io/testpatterns/index.html)
 - [Github Repository](//github.com/testpatterns/testpatterns)
+
+#### Test Patterns
+
+Test Pattern|Description
+--|--
+[NTSC_480i_2997_133_mandelbrot.ts](output/NTSC_480i_2997_133_mandelbrot.ts)|NTSC 480i <br> 29.970fps interlaced <br> H.262 MPEG2 video <br> YUV420 <br> AC3 audio
+[SMPTE_480i_2997_133_mandelbrot.mxf](output/SMPTE_480i_2997_133_mandelbrot.mxf)|SMPTE BT.601 480i <br> 29.970fps interlaced <br> H.264 AVC video <br> YUV422 <br> BT.601 <br> 16-bit PCM audio
 
 #### Dependencies
 
 - [FFmpeg](//ffmpeg.org), tested using [alternate FFmpeg tap](//github.com/homebrew-ffmpeg/homebrew-ffmpeg) build.
 - [GNU Bash](//www.gnu.org/software/bash/).
 - [Imagemagick](//imagemagick.org), for creating favicons for the repository.
-
-#### CONTRIBUTING
-
-See [CONTRIBUTING](CONTRIBUTING.md).
-
-#### LICENSE
-
-See [LICENSE](LICENSE.md).
 
 #### References
 
