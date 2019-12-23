@@ -6,7 +6,7 @@
 Test Pattern|Description
 --|--
 ![Thumbnail](output/NTSC_480i_nonsquare_133_bt601_yuv420p_mandelbrot_192x144.png)|[NTSC_480i_nonsquare_133_bt601_yuv420p_mandelbrot.ts](output/NTSC_480i_nonsquare_133_bt601_yuv420p_mandelbrot.ts)<br>NTSC 480i<br> 29.970fps interlaced<br>H.262 MPEG2 video<br>YUV420 <br>AC3 audio
-![Thumbnail](output/SMPTE_480i_nonsquare_133_bt601_yuv422p_mandelbrot_192x144.png)|[SMPTE_480i_nonsquare_133_bt601_yuv422p_mandelbrot.mxf](output/SMPTE_480i_nonsquare_133_bt601_yuv422p_mandelbrot.mxf)<br>SMPTE BT.601 480i<br>29.970fps interlaced <br>H.264 AVC video<br>YUV422<br>BT.601<br>16-bit PCM audio
+![Thumbnail](output/SMPTE_480i_nonsquare_133_bt601_yuv422p_mandelbrot_192x144.png)|[SMPTE_480i_nonsquare_133_bt601_yuv422p_mandelbrot.mxf](output/SMPTE_480i_nonsquare_133_bt601_yuv422p_mandelbrot.mxf)<br>SMPTE BT.601 480i<br>29.970fps interlaced <br>H.264 AVC video<br>YUV422<br>ITU-R BT.601<br>16-bit PCM audio
 
 #### Dependencies
 
@@ -21,4 +21,6 @@ Test Pattern|Description
 - [Favicon Cheat Sheet](//github.com/audreyr/favicon-cheat-sheet)
 - [Github Maximum File Size](//help.github.com/en/github/managing-large-files/working-with-large-files)
 - [Removing Sensitive info from Github](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository)
-[BT.601 : Studio encoding parameters of digital television for standard 4:3 and wide screen 16:9 aspect ratios](https://www.itu.int/rec/R-REC-BT.601/)
+- [ITU-R BT.601 : Studio encoding parameters of digital television for standard 4:3 and wide screen 16:9 aspect ratios](https://www.itu.int/rec/R-REC-BT.601)
+- [ITU-R BT.709 : Parameter values for the HDTV standards for production and international programme exchange](https://www.itu.int/rec/R-REC-BT.709)
+- [ITU-R BT.2020 : Parameter values for ultra-high definition television systems for production and international programme exchange](https://www.itu.int/rec/R-REC-BT.2020)
