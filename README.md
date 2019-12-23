@@ -44,6 +44,8 @@ Test Pattern|Description
 - [SMPTE ST 12-2:2014, Transmission of Time Code in the Ancillary Data Space](https://ieeexplore.ieee.org/document/7290816)
 - [SMPTE ST 12-3:2016, Time Code for High Frame Rate Signals and Formatting in the Ancillary Data Space](https://ieeexplore.ieee.org/document/7438725)
 - [ATSC Standards](https://www.atsc.org/standard/)
+- [AS-11: Media Contribution File Formats](https://www.amwa.tv/specifications)
+- [Digital Cinema Initiatives (DCI) System Requirements and Specifications for Digital Cinema, version 1.3](https://www.dcimovies.com/specification/index.html)
 
 #### Notes
 
