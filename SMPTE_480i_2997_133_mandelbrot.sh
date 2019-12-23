@@ -61,7 +61,7 @@ setpts=expr=(PTS-STARTPTS)" \
 -map "0:v:0" \
 -c:v "libx264" -crf:v "${CONSTANTRATEFACTOR}" -preset:v "${VIDEOPRESET}" -vsync:v "cfr" \
 -flags:v "+ildct+ilme" -top:v "1" -field_order:v "tt" -weightp:v "0" \
--pix_fmt:v "yuv420p" -colorspace:v "bt709" -color_primaries:v "bt709" -color_trc:v "bt709" -color_range:v "tv" \
+-pix_fmt:v "${PIX_FMT}" -colorspace:v "bt709" -color_primaries:v "bt709" -color_trc:v "bt709" -color_range:v "tv" \
 -map "1:a:0" -c:a "pcm_s16le" -ac "2" -ar "48000" \
 -metadata:g provider_name="${PROVIDERNAME}" \
 -metadata:g service_name="${SERVICENAME}" \
@@ -92,5 +92,7 @@ setpts=expr=(PTS-STARTPTS)" \
 sleep 2
 # FFREPORT="file=${TEMPFOLDER}/${OUTPUTBASENAME}_%p_%t.ffreport:level=32"
 ffprobe -hide_banner -loglevel "${LOGLEVEL}" -print_format "json" -i "${OUTPUTFOLDER}/${OUTPUTBASENAME}.mxf" -show_versions -show_streams -show_format -show_programs > "${OUTPUTFOLDER}/${OUTPUTBASENAME}_ffprobe.json"
+
+ffmpeg -y -hide_banner -loglevel "error" -i "${OUTPUTFOLDER}/${OUTPUTBASENAME}.mxf" -vf "scale=width=192:height=144" -vframes "1" -f "image2" "${OUTPUTFOLDER}/${OUTPUTBASENAME}_192x144.png"
 
 exit 0
