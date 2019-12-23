@@ -31,6 +31,9 @@ Test Pattern|Description
 - [SMPTE RP 2046-2:2009, Safe Areas for Protection of Alternate Aspect Ratios](https://ieeexplore.ieee.org/document/7290234)
 - [SMPTE RP 219:2002 High-Definition, Standard-Definition Compatible Color Bar Signal](https://ieeexplore.ieee.org/document/7289865)
 - [SMPTE EG 1:1990, Alignment Color Bar Test Signal for Television Picture Monitors](https://ieeexplore.ieee.org/document/7291491)
+- [SMPTE ST 12-1:2014, Time and Control Code](https://ieeexplore.ieee.org/document/7291029)
+- [SMPTE ST 12-2:2014, Transmission of Time Code in the Ancillary Data Space](https://ieeexplore.ieee.org/document/7290816)
+- [SMPTE ST 12-3:2016, Time Code for High Frame Rate Signals and Formatting in the Ancillary Data Space](https://ieeexplore.ieee.org/document/7438725)
 
 
 #### Notes
