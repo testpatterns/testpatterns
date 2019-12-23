@@ -13,6 +13,7 @@ Test Pattern|Description
 - [FFmpeg](//ffmpeg.org), tested using the [alternative FFmpeg tap](//github.com/homebrew-ffmpeg/homebrew-ffmpeg) build.
 - [GNU Bash](//www.gnu.org/software/bash/).
 - [Imagemagick](//imagemagick.org), for creating favicons for the repository.
+- [ltc-tools](https://github.com/x42/ltc-tools), for creation of linear-timecodes (LTC).
 
 #### References
 
