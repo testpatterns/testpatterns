@@ -37,7 +37,7 @@ Test Pattern|Description
 
 
 #### Notes
-,
+
 - [Mastering Github Flavoured Markdown](//guides.github.com/features/mastering-markdown/)
 - [Semantic Versioning 2.0.0](//semver.org/)
 - [Favicon Cheat Sheet](//github.com/audreyr/favicon-cheat-sheet)
