@@ -27,7 +27,7 @@ Test Pattern|Description
 - [ITU-R BT.2020, Parameter values for ultra-high definition television systems for production and international programme exchange](//www.itu.int/rec/R-REC-BT.2020)
 - [EBU R 95, Safe Areas for 16:9 Television Production](https://tech.ebu.ch/docs/r/r095.pdf)
 - [EBU R 128, Loudness Normalisation and Permitted Maximum Level of Audio Signals](https://tech.ebu.ch/docs/r/r128.pdf)
-- [ITU Recommendation BS.1770 : Algorithms to measure audio programme loudness and true-peak audio level](https://www.itu.int/rec/R-REC-BS.1770/)
+- [ITU Recommendation BS.1770, Algorithms to measure audio programme loudness and true-peak audio level](https://www.itu.int/rec/R-REC-BS.1770/)
 - [EBU Tech 3304, Multichannel Audio Line-up Tones](https://tech.ebu.ch/docs/tech/tech3304.pdf)
 - [Graham's Line Identification Tone System (GLITS)](https://en.wikipedia.org/wiki/GLITS)
 - [Black & Lane's Ident Tones for Surround (BLITS)](https://en.wikipedia.org/wiki/Black_%26_Lane%27s_Ident_Tones_for_Surround)
