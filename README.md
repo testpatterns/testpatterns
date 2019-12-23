@@ -22,7 +22,7 @@ Test Pattern|Description
 - [EBU R 95 Safe Areas for 16:9 Television Production](https://tech.ebu.ch/docs/r/r095.pdf)
 - [EBU R 128 Loudness Normalisation and Permitted Maximum Level of Audio Signals](https://tech.ebu.ch/docs/r/r128.pdf)
 - [ITU Recommendation BS.1770 : Algorithms to measure audio programme loudness and true-peak audio level](https://www.itu.int/rec/R-REC-BS.1770/)
-- [EBU Tech 3304 Multichannel AudioLine-up Tones](https://tech.ebu.ch/docs/tech/tech3304.pdf)
+- [EBU Tech 3304 Multichannel Audio Line-up Tones](https://tech.ebu.ch/docs/tech/tech3304.pdf)
 - [Graham's Line Identification Tone System (GLITS)](https://en.wikipedia.org/wiki/GLITS)
 - [Black & Lane's Ident Tones for Surround (BLITS)](https://en.wikipedia.org/wiki/Black_%26_Lane%27s_Ident_Tones_for_Surround)
 - [SMPTE RP 8, Safe Title Area for TV Transmission](https://www.smpte.org/standards/document-index/RP)
