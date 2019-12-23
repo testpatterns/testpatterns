@@ -22,3 +22,4 @@ See [LICENSE](LICENSE.md).
 - [Mastering Github Flavoured Markdown](//guides.github.com/features/mastering-markdown/)
 - [Semantic Versioning 2.0.0](//semver.org/)
 - [Favicon Cheat Sheet](//github.com/audreyr/favicon-cheat-sheet)
+- [Github Maximum File Size](//help.github.com/en/github/managing-large-files/working-with-large-files)
