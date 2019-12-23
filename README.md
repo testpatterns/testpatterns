@@ -26,8 +26,11 @@ Test Pattern|Description
 - [ITU-R BT.709, Parameter values for the HDTV standards for production and international programme exchange](//www.itu.int/rec/R-REC-BT.709)
 - [ITU-R BT.2020, Parameter values for ultra-high definition television systems for production and international programme exchange](//www.itu.int/rec/R-REC-BT.2020)
 - [EBU R 95, Safe Areas for 16:9 Television Production](https://tech.ebu.ch/docs/r/r095.pdf)
+- [ATSC A/53:2017, ATSC Digital Television Standard, Parts 1 - 6](https://www.atsc.org/standard/a53-atsc-digital-television-standard/)
+- [ATSC RP A/85:2013 – Techniques for Establishing and Maintaining Audio Loudness for Digital Television](https://www.atsc.org/recommended-practice/a85-techniques-for-establishing-and-maintaining-audio-loudness-for-digital-television/)
 - [EBU R 128, Loudness Normalisation and Permitted Maximum Level of Audio Signals](https://tech.ebu.ch/docs/r/r128.pdf)
 - [ITU Recommendation BS.1770, Algorithms to measure audio programme loudness and true-peak audio level](https://www.itu.int/rec/R-REC-BS.1770/)
+- [EBU R 49-1999, Tape alignment leader for the exchange of television programmes](https://tech.ebu.ch/docs/r/r049.pdf)
 - [EBU Tech 3304, Multichannel Audio Line-up Tones](https://tech.ebu.ch/docs/tech/tech3304.pdf)
 - [Graham's Line Identification Tone System (GLITS)](https://en.wikipedia.org/wiki/GLITS)
 - [Black & Lane's Ident Tones for Surround (BLITS)](https://en.wikipedia.org/wiki/Black_%26_Lane%27s_Ident_Tones_for_Surround)
@@ -40,7 +43,7 @@ Test Pattern|Description
 - [SMPTE ST 12-1:2014, Time and Control Code](https://ieeexplore.ieee.org/document/7291029)
 - [SMPTE ST 12-2:2014, Transmission of Time Code in the Ancillary Data Space](https://ieeexplore.ieee.org/document/7290816)
 - [SMPTE ST 12-3:2016, Time Code for High Frame Rate Signals and Formatting in the Ancillary Data Space](https://ieeexplore.ieee.org/document/7438725)
-
+- [ATSC Standards](https://www.atsc.org/standard/)
 
 #### Notes
 
