@@ -10,7 +10,7 @@ Test Pattern|Description
 
 #### Dependencies
 
-- [FFmpeg](//ffmpeg.org), tested using [alternate FFmpeg tap](//github.com/homebrew-ffmpeg/homebrew-ffmpeg) build.
+- [FFmpeg](//ffmpeg.org), tested using the [alternative FFmpeg tap](//github.com/homebrew-ffmpeg/homebrew-ffmpeg) build.
 - [GNU Bash](//www.gnu.org/software/bash/).
 - [Imagemagick](//imagemagick.org), for creating favicons for the repository.
 
